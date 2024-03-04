@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+// make sure the .json is in the same directory
 import teamsData from './CollegeBasketballTeams.json';
 
 interface Team {
